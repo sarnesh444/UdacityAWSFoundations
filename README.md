@@ -18,19 +18,14 @@ AWS Machine Learning
 
 Enroll in the AWS Machine Learning Foundations course.
 
-
 Learn best practices of object-oriented programming, AWS AI Services, AWS DeepLens, AWS DeepRacer, and AWS DeepComposer.
-
 
 Commit to dedicating 3-5 hours a week on the course and work towards earning one of the follow-up Nanodegree program scholarships.
 
 
-
-Icon calendar blue
 ENROLLMENT OPENS
 Tuesday, May 19
 
-Icon calendar blue
 ENROLLMENT CLOSES
 Wednesday, July 31, 11:59 PM PST
 

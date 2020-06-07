@@ -1,0 +1,17 @@
+QUESTION 1 OF 2
+Imagine you are writing a program that executes a number of tasks and categorizes each task based on its execution time. Below is a small snippet of this program. Which of the following naming changes could make this code cleaner?
+
+t = end_time - start  # compute execution time
+c = category(t)  # get category of task
+print('Task Duration: {} seconds, Category: {}'.format(t, c)
+
+
+THIS CODE CAN BE WELL WRITTEN BY:
+
+Rename the variable start to start_time to make it consistent with end_time
+
+Rename the variable t to execution_time to make it more descriptive
+
+Rename the function category to categorize_task to match the part of speech
+
+Rename the variable c to category to make it more descriptive

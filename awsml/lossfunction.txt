@@ -1,0 +1,14 @@
+Each iteration of the training cycle is called an epoch. The model is trained for thousands of epochs.
+
+Loss Functions
+
+In machine learning, the goal of iterating and completing epochs is to improve the output or prediction of the model.
+Any output that deviates from the ground truth is referred to as an error. The measure of an error, given a set of weights,
+is called a loss function. Weights represent how important an associated feature is to determining the accuracy of a prediction, 
+and loss functions are used to update the weights after every iteration. Ideally, as the weights update, the model improves making less and less errors. 
+Convergence happens once the loss functions stabilize.
+
+
+Learning Rate
+The learning rate controls how rapidly the weights and biases of each network are updated during training. 
+A higher learning rate might allow the network to explore a wider set of model weights, but might pass over more optimal weights.
